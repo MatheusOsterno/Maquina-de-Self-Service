@@ -1,0 +1,9 @@
+{
+    "sandwiches": [
+        {
+            "photo": "img/big-mac.png",
+            "name": "Big Mac",
+            "price": 5.99
+        }
+    ]
+}
